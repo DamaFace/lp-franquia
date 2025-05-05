@@ -8,7 +8,7 @@ const ClinicShowcase: React.FC = () => {
       investment: "79.900",
       revenueYear: "838.800",
       revenueMonth: "69.900",
-      image: "meterias/DamaLigth.jpg",
+      image: "materias/DamaLigth.jpg",
       population: "Para profissionais da área ou virada de bandenira"
     },
     {
