@@ -23,7 +23,24 @@ const ThankYou: React.FC = () => {
             className="w-full flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-full text-white bg-[#fa1571] hover:bg-[#e01364] transition-colors duration-300"
           >
             <Download className="w-5 h-5 mr-2" />
-            Baixar Material Informativo
+            Baixar Apresentação
+          </a>
+          <a
+            href="materias/APRESENTAÇÃO-DAMAFACE.pdf"
+            download
+            className="w-full flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-full text-white bg-[#fa1571] hover:bg-[#e01364] transition-colors duration-300"
+          >
+            <Download className="w-5 h-5 mr-2" />
+            Baixar 3 Variáveis do sucesso
+          </a>
+          <a
+            href="https://calendly.com/damafacefranchising/franquia"
+            download
+            className="w-full flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-full text-white bg-[#1E90FF] hover:bg-[#007ACC] transition-colors duration-300
+"
+          >
+            <Download className="w-5 h-5 mr-2" />
+            Agendar reunião com especialista
           </a>
 
           <Link
