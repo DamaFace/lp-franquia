@@ -12,7 +12,7 @@ const businessModels = [
       "Espaço compacto (30-50m²)",
       "Operação enxuta",
       "Inaugure em 30 dias",
-      "Suporte completo(marketing, vendas, compras, técnico, tec)"
+      "Suporte completo (marketing, vendas, compras, técnico, tec)"
     ],
     recommended: false
   },
@@ -24,7 +24,7 @@ const businessModels = [
       "Espaço médio (50-70m²)",
       "Operação enxuta",
       "Inaugure em até 90 dias",
-      "Suporte completo(marketing, vendas, compras, técnico, tec, implantação)"
+      "Suporte completo (marketing, vendas, compras, técnico, tec, implantação)"
     ],
     recommended: true
   },
@@ -36,7 +36,7 @@ const businessModels = [
       "Espaço luxuoso (70-150m²)",
       "Equipe especializada",
       "Equipamentos exclusivos",
-      "Suporte completo(Marketing, Vendas, Compras, Técnico, Tec, Implantação, Rh)"
+      "Suporte completo (Marketing, Vendas, Compras, Técnico, Tec, Implantação, Rh)"
     ],
     recommended: false
   }
