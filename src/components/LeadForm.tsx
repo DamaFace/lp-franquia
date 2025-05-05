@@ -32,14 +32,25 @@ const LeadForm: React.FC = () => {
   });
 
   const onSubmit = async (data: FormData) => {
-    try {
-      // Here you would typically send the data to your backend
-      console.log('Form data:', data);
-      navigate('/obrigado');
-    } catch (error) {
-      console.error('Error submitting form:', error);
+  try {
+    const response = await fetch('https://n8n-n8n.i4khe5.easypanel.host/webhook/lp-franquia', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(data)
+    });
+
+    if (!response.ok) {
+      throw new Error('Erro ao enviar os dados');
     }
-  };
+
+    // Se tudo der certo, redireciona
+    navigate('/obrigado');
+  } catch (error) {
+    console.error('Erro ao enviar formulário:', error);
+  }
+};
 
   return (
     <div id="lead-form" className="py-16 bg-gradient-to-b from-white to-gray-50">
