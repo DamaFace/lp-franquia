@@ -8,7 +8,7 @@ const ClinicShowcase: React.FC = () => {
       investment: "79.900",
       revenueYear: "838.800",
       revenueMonth: "69.900",
-      image: "https://images.pexels.com/photos/3735801/pexels-photo-3735801.jpeg",
+      image: "meterias/DamaLigth.jpg",
       population: "Para profissionais da área ou virada de bandenira"
     },
     {
@@ -16,7 +16,7 @@ const ClinicShowcase: React.FC = () => {
       investment: "127.900",
       revenueYear: "1.200.000",
       revenueMonth: "100",
-      image: "https://images.pexels.com/photos/3738339/pexels-photo-3738339.jpeg",
+      image: "materias/DamaSlim.jpg",
       population: "Para clínicas de até 50m²"
     },
     {
@@ -24,7 +24,7 @@ const ClinicShowcase: React.FC = () => {
       investment: "249.900",
       revenueYear: "1.900.000",
       revenueMonth: "158.000",
-      image: "https://images.pexels.com/photos/3736498/pexels-photo-3736498.jpeg",
+      image: "materias/DamaPremium.jpg",
       population: "Para clínicas de até 150m²"
     }
   ];
