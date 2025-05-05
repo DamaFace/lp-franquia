@@ -4,31 +4,24 @@ import { ChevronLeft, ChevronRight, Quote } from 'lucide-react';
 const testimonials = [
   {
     name: "Amanda Oliveira",
-    location: "São Paulo, SP",
+    location: "Jaguariúna, SP",
     role: "Franqueada há 2 anos",
     image: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=600",
     quote: "Depois de 15 anos trabalhando em salões, decidi empreender com a DamaFace. O suporte da equipe foi fundamental para alcançar lucratividade em apenas 5 meses."
   },
   {
     name: "Carla Mendes",
-    location: "Rio de Janeiro, RJ",
+    location: "Cerquilho, SP",
     role: "Franqueada há 1 ano",
     image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=600",
     quote: "A franquia superou minhas expectativas. O treinamento é excepcional e o modelo de negócio realmente entrega os 40% de lucro prometidos."
   },
   {
-    name: "Roberto Almeida",
-    location: "Belo Horizonte, MG",
-    role: "Franqueado há 3 anos",
-    image: "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=600",
-    quote: "Mesmo sem experiência prévia em estética, consegui estabelecer um negócio lucrativo graças ao suporte contínuo e tecnologia exclusiva da DamaFace."
-  },
-  {
     name: "Juliana Costa",
-    location: "Curitiba, PR",
+    location: "São Carlos, SP",
     role: "Franqueada há 1 ano e meio",
     image: "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=600",
-    quote: "A inteligência artificial nos procedimentos é um diferencial incrível que atrai muitos clientes. Minha clínica está sempre lotada e já estou planejando abrir uma segunda unidade."
+    quote: "A inteligência artificial nos processos comerciais é um diferencial incrível que atrai muitos clientes. Minha clínica está sempre lotada e já estou planejando abrir uma segunda unidade."
   }
 ];
 
