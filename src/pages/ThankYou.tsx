@@ -18,7 +18,7 @@ const ThankYou: React.FC = () => {
 
         <div className="mt-8 space-y-4">
          <a
-            href="materias/ebook-franquias-marketing.pdf"
+            href="materias/Ebook-Damaface.pdf"
             download
             className="w-full flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-full text-white bg-[#fa1571] hover:bg-[#e01364] transition-colors duration-300"
           >
