@@ -6,37 +6,37 @@ import { s } from 'framer-motion/client';
 const businessModels = [
   {
     name: "Dama Light",
-    investment: "R$ 90.000",
+    investment: "R$ 79.900",
     roi: "6-12 meses",
     features: [
       "Espaço compacto (30-50m²)",
-      "Equipe reduzida",
-      "Ideal para iniciantes",
-      "Suporte de marketing local"
+      "Operação enxuta",
+      "Inaugure em 30 dias",
+      "Suporte completo(marketing, vendas, compras, técnico, tec)"
     ],
     recommended: false
   },
   {
     name: "Dama Slim",
-    investment: "R$ 150.000",
+    investment: "R$ 127.900",
     roi: "8-14 meses",
     features: [
-      "Espaço médio (50-80m²)",
-      "Equipe completa",
-      "Tecnologia avançada",
-      "Marketing regional exclusivo"
+      "Espaço médio (50-70m²)",
+      "Operação enxuta",
+      "Inaugure em até 90 dias",
+      "Suporte completo(marketing, vendas, compras, técnico, tec, implantação)"
     ],
     recommended: true
   },
   {
     name: "Dama Premium",
-    investment: "R$ 250.000",
-    roi: "12-18 meses",
+    investment: "R$ 249.900",
+    roi: "18-24 meses",
     features: [
-      "Espaço luxuoso (80-120m²)",
+      "Espaço luxuoso (70-150m²)",
       "Equipe especializada",
       "Equipamentos exclusivos",
-      "Marketing nacional"
+      "Suporte completo(Marketing, Vendas, Compras, Técnico, Tec, Implantação, Rh)"
     ],
     recommended: false
   }
