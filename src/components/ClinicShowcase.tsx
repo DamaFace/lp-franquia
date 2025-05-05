@@ -4,28 +4,28 @@ import { TrendingUp, Users, MapPin } from 'lucide-react';
 const ClinicShowcase: React.FC = () => {
   const clinics = [
     {
-      name: "Premium",
-      investment: "249.000",
-      revenueYear: "2.000.000",
-      revenueMonth: "166",
+      name: "Light",
+      investment: "79.900",
+      revenueYear: "838.800",
+      revenueMonth: "69.900",
       image: "https://images.pexels.com/photos/3735801/pexels-photo-3735801.jpeg",
-      population: "Para cidades acima de 100 mil habitantes"
+      population: "Para profissionais da área ou virada de bandenira"
     },
     {
       name: "Slim",
-      investment: "147.000",
+      investment: "127.900",
       revenueYear: "1.200.000",
       revenueMonth: "100",
       image: "https://images.pexels.com/photos/3738339/pexels-photo-3738339.jpeg",
-      population: "Para cidades entre 50-100 mil habitantes"
+      population: "Para clínicas de até 50m²"
     },
     {
-      name: "Light",
-      investment: "87.000",
-      revenueYear: "800.000",
-      revenueMonth: "67",
+      name: "Premium",
+      investment: "249.900",
+      revenueYear: "1.900.000",
+      revenueMonth: "158.000",
       image: "https://images.pexels.com/photos/3736498/pexels-photo-3736498.jpeg",
-      population: "Para cidades até 50 mil habitantes"
+      population: "Para clínicas de até 150m²"
     }
   ];
 
