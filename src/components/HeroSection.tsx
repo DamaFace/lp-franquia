@@ -14,7 +14,7 @@ const HeroSection: React.FC = () => {
       id="sobre-a-franquia" 
       className="pt-20 relative min-h-screen flex items-center"
       style={{
-        backgroundImage: 'url(https://www.damaface.com.br/img-evento.jpeg)',
+        backgroundImage: 'url('/materias/recepção clinica.jpeg')',
         backgroundSize: 'cover',
         backgroundPosition: 'center'
       }}
