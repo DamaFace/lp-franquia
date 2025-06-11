@@ -23,7 +23,7 @@ const HeroSection: React.FC = () => {
       
       <div className="container mx-auto px-4 py-16 md:py-32 flex flex-col items-center text-center relative z-10">
         <h1 className="text-3xl md:text-5xl font-bold leading-tight mb-6 max-w-4xl text-white">
-          Conheça a Franquia de Estética DamaFace – Lucro Acessível, Suporte Total e um Futuro Promissor
+          Fature Mais de R$ 100 Mil por Mês com uma Franquia de Alta Lucratividade (+40% de Margem)
         </h1>
         
         <p className="text-lg md:text-xl mb-8 max-w-2xl text-gray-200">
@@ -44,9 +44,9 @@ const HeroSection: React.FC = () => {
         </div>
         
         <div className="flex flex-wrap justify-center mt-8 gap-3">
-          <span className="bg-white/10 backdrop-blur-sm text-white text-sm px-3 py-1 rounded-full border border-white/20">Suporte Completo</span>
-          <span className="bg-white/10 backdrop-blur-sm text-white text-sm px-3 py-1 rounded-full border border-white/20">Tecnologia com IA</span>
-          <span className="bg-white/10 backdrop-blur-sm text-white text-sm px-3 py-1 rounded-full border border-white/20">Lucro de 40%</span>
+          <span className="bg-white/10 backdrop-blur-sm text-white text-sm px-3 py-1 rounded-full border border-white/20">Resultados comprovados</span>
+          <span className="bg-white/10 backdrop-blur-sm text-white text-sm px-3 py-1 rounded-full border border-white/20">Presente em mais de 50 cidades</span>
+          <span className="bg-white/10 backdrop-blur-sm text-white text-sm px-3 py-1 rounded-full border border-white/20">Retorno rápido e suporte total</span>
         </div>
       </div>
     </section>
